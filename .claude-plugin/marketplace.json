@@ -15,7 +15,7 @@
         "repo": "hyperlab-sh/tempad"
       },
       "description": "Reconstructs work history hour by hour from git, Monday.com and Claude Code sessions. Adds the quest and setup skills and hooks that keep each session's quest declared.",
-      "version": "0.1.1",
+      "version": "0.2.0",
       "author": {
         "name": "Saulo Vallory",
         "email": "me@saulo.engineer"
