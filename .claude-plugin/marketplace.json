@@ -1,0 +1,11 @@
+{
+  "name": "hyperlab",
+  "owner": {
+    "name": "Saulo Vallory",
+    "email": "me@saulo.engineer"
+  },
+  "metadata": {
+    "description": "Claude Code plugins from hyperlab-sh. Each plugin lives in its own repository; this repository is only the index."
+  },
+  "plugins": []
+}
